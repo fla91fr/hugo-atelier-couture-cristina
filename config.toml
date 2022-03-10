@@ -2,9 +2,9 @@ baseurl = "https://hugo.atelier-couture-cristina.fr" # Configure URL. if using g
 title = "Atelier Couture Cristina"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
-languageCode = "en-us"
+languageCode = "fr-fr"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
@@ -448,7 +448,7 @@ paginate = 10
     disabled_logo = false
     logo_text = "Universal"
 
-    logo = "img/logo.png"
+    logo = "img/logo_atelier_couture_cristina_lossless.webp"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
