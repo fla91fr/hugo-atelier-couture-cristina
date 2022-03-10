@@ -1,5 +1,5 @@
 baseurl = "https://hugo.atelier-couture-cristina.fr" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "Universal"
+title = "Atelier Couture Cristina"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
 languageCode = "en-us"
