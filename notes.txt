@@ -1,0 +1,3 @@
+
+How to auto deploy Hugo website on Plesk Onyx
+    https://brain-dump.space/articles/auto-deploy-hugo-website-on-plesk-onyx/
