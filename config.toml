@@ -440,24 +440,23 @@ paginate = 10
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2022 - Atelier Couture Cristina"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "Atelier Couture Cristina"
 
     logo = "img/logo_atelier_couture_cristina_lossless.webp"
     logo_small = "img/logo_atelier_couture_cristina_lossless.webp"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p class="text-uppercase"><strong>Sté Atelier Couture Cristina</strong>
+        <br>27 avenue de l'Ermitage
+        <br>91800
+        <br>Brunoy
         <br>
-        <strong>Great Britain</strong>
+        <strong>France</strong>
       </p>
       """
 
@@ -467,9 +466,9 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+    text = """<p class="hidden-sm hidden-xs">Contactez nous au 06 25 03 64 89 ou contact@atelier-couture-cristina.fr</p>
+      <p class="hidden-md hidden-lg"><a href="tel:06 25 03 64 89" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:contact@atelier-couture-cristina.fr" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
