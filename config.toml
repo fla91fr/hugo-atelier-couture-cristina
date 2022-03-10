@@ -544,3 +544,35 @@ paginate = 10
   category = "categories"
   tag = "tags"
   author = "authors"
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+      keepCSS2 = true
+      precision = 0
+    [minify.tdewolff.html]
+      keepComments = false
+      keepConditionalComments = false
+      keepDefaultAttrVals = false
+      keepDocumentTags = false
+      keepEndTags = false
+      keepQuotes = false
+      keepWhitespace = false
+    [minify.tdewolff.js]
+      keepVarNames = false
+      noNullishOperator = false
+      precision = 0
+    [minify.tdewolff.json]
+      keepNumbers = false
+      precision = 0
+    [minify.tdewolff.svg]
+      precision = 0
+    [minify.tdewolff.xml]
+      keepWhitespace = false
