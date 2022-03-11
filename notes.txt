@@ -3,3 +3,13 @@ How to auto deploy Hugo website on Plesk Onyx
     https://brain-dump.space/articles/auto-deploy-hugo-website-on-plesk-onyx/
 
 HugoCms Theme UNIVERSAL : https://github.com/devcows/hugo-universal-theme.git
+
+
+
+git submodule add https://github.com/devcows/hugo-universal-theme.git themes/hugo-universal-theme
+
+
+Galleries
+    https://brunoamaral.eu/post/creating-a-gallery-component-for-the-hugo-static-site-generator/
+    https://christianspecht.de/2020/08/10/creating-an-image-gallery-with-hugo-and-lightbox2/
+    https://discourse.gohugo.io/t/image-exif-orientation/22902/11

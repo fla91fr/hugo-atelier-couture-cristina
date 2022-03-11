@@ -1,0 +1,21 @@
+{{ with .Get "title" }}
+  <h2>{{ . }}</h2>
+{{ end }}
+<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  {{ range (.Page.Resources.Match (printf "%s*" (.Get "folder"))) }}
+
+    {{ $resource := .Permalink }}
+    {{ $thumbnail := .Resize "730x" }}
+
+    <figure itemscope itemtype="http://schema.org/ImageObject" class="image gallery-item">
+    <a href="{{ .Permalink }}" itemprop="contentUrl" data-size="{{ .Width }}x{{ .Height }}" >
+      <img src="{{ $thumbnail.Permalink }}" itemprop="thumbnail" alt="{{ .Params.alt }}" class="galleryImage" />
+    </a>
+    <figcaption itemprop="caption description">
+      {{ .Params.caption }}
+      <span itemprop="copyrightHolder">{{ .Params.copyright }}</span>
+    </figcaption>
+    </figure> 
+
+  {{ end }}
+</div>

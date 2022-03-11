@@ -351,18 +351,23 @@ paginate = 10
     weight     = 7
 
 [[menu.main]]
-    identifier = "contact"
     name       = "Contact"
+    identifier = "menu.contact"
     url        = "/contact/"
     weight     = 8
 
 [[menu.main]]
-    identifier = "galleries"
-    name       = "Galleries"
-    url        = "/galleries/gallery1"
+    name       = "NewPage"
+    identifier = "menu.newpage"
+    url        = "/newpage"
     weight     = 9
 
-
+[[menu.main]]
+    name       = "NewPage2"
+    identifier = "menu.newpage2"
+    url        = "/newpage2"
+    weight     = 9
+    
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -557,7 +562,7 @@ paginate = 10
   disableJSON = false
   disableSVG = false
   disableXML = false
-  minifyOutput = true
+  minifyOutput = false
   [minify.tdewolff]
     [minify.tdewolff.css]
       keepCSS2 = true
