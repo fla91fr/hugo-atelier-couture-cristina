@@ -356,6 +356,12 @@ paginate = 10
     url        = "/contact/"
     weight     = 8
 
+[[menu.main]]
+    identifier = "galleries"
+    name       = "Galleries"
+    url        = "/galleries/gallery1"
+    weight     = 9
+
 
 # Top bar social links menu
 
