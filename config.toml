@@ -56,93 +56,6 @@ paginate = 10
     weight     = 5
     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Features"
-    identifier = "menu.features"
-    url        = "/img/template-easy-customize.png"
-    weight     = 3
-
-[[menu.main]]
-    name       = "Shortcodes"
-    identifier = "section.shortcodes"
-    url        = ""
-    weight     = 1
-    parent     = "menu.features"
-    post       = 1
-
-[[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
-
-[[menu.main]]
-    name       = "Accordions"
-    url        = ""
-    weight     = 1
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Alerts"
-    url        = ""
-    weight     = 2
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Buttons"
-    url        = ""
-    weight     = 3
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Content Boxes"
-    url        = ""
-    weight     = 4
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Horizontal Blocks"
-    url        = ""
-    weight     = 5
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Pagination"
-    url        = ""
-    weight     = 6
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Tabs"
-    url        = ""
-    weight     = 7
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Typography"
-    url        = ""
-    weight     = 8
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Default Sticky Header"
-    url        = ""
-    weight     = 1
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "No Sticky Header"
-    url        = ""
-    weight     = 2
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Light Header"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
 
 [[menu.main]]
     name       = "Portfolio"
@@ -240,91 +153,6 @@ paginate = 10
     weight     = 1
     parent     = "section.marketing"
 
-[[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = ""
-    weight     = 4
-
-[[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Pages"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
 
 [[menu.main]]
     name       = "Blog Listing Big"
@@ -350,11 +178,6 @@ paginate = 10
     url        = "/faq/"
     weight     = 7
 
-[[menu.main]]
-    name       = "Contact"
-    identifier = "menu.contact"
-    url        = "/contact/"
-    weight     = 8
 
 [[menu.main]]
     name       = "NewPage"
@@ -367,7 +190,19 @@ paginate = 10
     identifier = "menu.newpage2"
     url        = "/newpage2"
     weight     = 9
-    
+
+[[menu.main]]
+    name       = "Guestbook"
+    identifier = "menu.guestbook"
+    url        = "/livre-or-guestbook"
+    weight     = 10
+
+[[menu.main]]
+    name       = "Contact"
+    identifier = "menu.contact"
+    url        = "/contactez-notre-atelier/"
+    weight     = 11
+
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -522,7 +357,7 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Testimonials"
+    title = "Témoignages"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]

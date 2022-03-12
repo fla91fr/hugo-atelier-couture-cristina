@@ -13,3 +13,21 @@ Galleries
     https://brunoamaral.eu/post/creating-a-gallery-component-for-the-hugo-static-site-generator/
     https://christianspecht.de/2020/08/10/creating-an-image-gallery-with-hugo-and-lightbox2/
     https://discourse.gohugo.io/t/image-exif-orientation/22902/11
+
+Couturieres
+    https://www.nanyne.com
+    https://www.lamusee.paris/
+    http://www.couturemariage.com/
+    http://nadiacouture.fr
+    https://www.nanyne.com
+
+Webp conversion under windows
+    https://gist.githubusercontent.com/frozenex/4388145545163cf85e94d07cb18fe931/raw/7e939df884660111854db2ddb389970734ce426c/bulk-convert.ps1
+    
+    # Copy this file to any directory containing images & then run this script in powershell
+    # Get all png images in the current directory & convert it to webp format
+    $images = Get-ChildItem -Path (Get-Location) -Filter *.png
+    foreach ($image in $images) {
+    $fileName = $image.DirectoryName + "\" + $image.BaseName + ".webp"
+    cwebp.exe -q 80 $image.FullName -o $fileName
+    }
