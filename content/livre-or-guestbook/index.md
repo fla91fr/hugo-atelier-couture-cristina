@@ -8,3 +8,5 @@ summary="This is the summary Goto [hugo releases](https://github.com/spf13/hugo/
 +++
 
 Découvrez ici quelques uns des avis de nos clientes, écrits dans un livre d’or au format papier, et numérisés pour être présentés ici.
+
+{{<gallery>}}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guestbook on Atelier Couture Cristina</title>
+    <link>https://hugo.atelier-couture-cristina.fr/categories/guestbook/</link>
+    <description>Recent content in guestbook on Atelier Couture Cristina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate><atom:link href="https://hugo.atelier-couture-cristina.fr/categories/guestbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le livre d&#39;or</title>
+      <link>https://hugo.atelier-couture-cristina.fr/livre-or-guestbook/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/livre-or-guestbook/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://hugo.atelier-couture-cristina.fr/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
