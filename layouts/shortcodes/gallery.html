@@ -9,7 +9,7 @@
     {{ range . }}
     {{ $resized := .Fill "300x230 q50" }}
     <div class="mItem">
-    <a href="{{ .Permalink }}" data-lightbox="x"><img width="300" src="{{ $resized.Permalink }}" /></a>
+    <a href="{{ .Permalink }}" data-lightbox="x"><img width="300" height="230" src="{{ $resized.Permalink }}" /></a>
     </div>
     {{ end }}
 {{ end }}
