@@ -179,10 +179,116 @@ paginate = 10
     weight     = 9
 
 [[menu.main]]
-    name       = "NewPage2"
-    identifier = "menu.newpage2"
-    url        = "/newpage2"
+    name       = "Services"
+    identifier = "menu.services"
+    url        = "/img/banner-services.jpg"
     weight     = 9
+
+[[menu.main]]
+    name       = "Créations sur mesure"
+    identifier = "section.creations.sur.mesure"
+    url        = ""
+    weight     = 1
+    parent     = "menu.services"
+    post       = 1
+[[menu.main]]
+    name       = "Robes de mariée sur mesure"
+    identifier = "section.robes.de.mariee.sur.mesure"
+    url        = "/services-creation-robe-mariee-sur-mesure"
+    weight     = 1
+    parent     = "section.creations.sur.mesure"
+[[menu.main]]
+    name       = "Robes de soirée/cocktail sur mesure"
+    identifier = "section.robes.de.soiree.sur.mesure"
+    url        = "/services-creation-robe-soiree-sur-mesure"
+    weight     = 2
+    parent     = "section.creations.sur.mesure"
+[[menu.main]]
+    name       = "Tenue de mariage civil"
+    identifier = "section.tenue.de.mariage.civil"
+    url        = "/services-creation-tenue-mariage-civil"
+    weight     = 3
+    parent     = "section.creations.sur.mesure"
+[[menu.main]]
+    name       = "Robe de demoiselle d'honneur"
+    identifier = "section.robe.demoiselle.honneur"
+    url        = "/services-creation-robe-demoiselle-honneur"
+    weight     = 4
+    parent     = "section.creations.sur.mesure"
+
+[[menu.main]]
+    name       = "Retouches et modifications de robes"
+    identifier = "section.retouches.et.modifications"
+    url        = ""
+    weight     = 1
+    parent     = "menu.services"
+    post       = 2
+[[menu.main]]
+    name       = "Retouches de robe de mariée"
+    identifier = "section.retouches.de.robe.de.mariee"
+    url        = "/services-retouches-robe-mariee"
+    weight     = 1
+    parent     = "section.retouches.et.modifications"
+[[menu.main]]
+    name       = "Modifications de robe de mariée"
+    identifier = "section.modifications.de.robe.de.mariee"
+    url        = "/services-modifications-robe-mariee"
+    weight     = 2
+    parent     = "section.retouches.et.modifications"
+[[menu.main]]
+    name       = "Retouches & modifications de robe de soirée"
+    identifier = "section.retouches.de.robe.de.soirée"
+    url        = "/services-retouches-modifications-robe-soiree"
+    weight     = 3
+    parent     = "section.retouches.et.modifications"
+
+
+
+# BEGIN - Section - Cadeaux de mariage
+[[menu.main]]
+    name       = "Cadeaux de mariage"
+    identifier = "menu.cadeaux"
+    url        = "/cadeaux-mariage"
+    weight     = 9
+[[menu.main]]
+    name       = "Cadeaux de mariage"
+    identifier = "section.cadeauxmariage"
+    url        = ""
+    weight     = 1
+    parent     = "menu.cadeaux"
+    post       = 1
+[[menu.main]]
+    name       = "Tasses/Mugs"
+    identifier = "section.mugs"
+    url        = ""
+    weight     = 1
+    parent     = "section.cadeauxmariage"
+[[menu.main]]
+    name       = "Cintres personnalisés, ..."
+    identifier = "section.cintres"
+    url        = ""
+    weight     = 2
+    parent     = "section.cadeauxmariage"
+[[menu.main]]
+    name       = "Noeuds papillons et cravates"
+    identifier = "section.noeudspapillons"
+    url        = ""
+    weight     = 3
+    parent     = "section.cadeauxmariage"
+[[menu.main]]
+    name       = "Kits ecologiques"
+    identifier = "section.kitsecologiques"
+    url        = ""
+    weight     = 4
+    parent     = "section.cadeauxmariage"
+[[menu.main]]
+    name       = "Masques COVID"
+    identifier = "section.masquescovid"
+    url        = ""
+    weight     = 5
+    parent     = "section.cadeauxmariage"
+
+# END - Section - Cadeaux de mariage
 
 [[menu.main]]
     name       = "Guestbook"

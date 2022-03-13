@@ -102,6 +102,42 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>Création de robe de demoiselle d&#39;honneur sur mesure</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-creation-robe-demoiselle-honneur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/services-creation-robe-demoiselle-honneur/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
+    </item>
+    
+    <item>
+      <title>Création de robe de mariée sur mesure</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-creation-robe-mariee-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/services-creation-robe-mariee-sur-mesure/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
+    </item>
+    
+    <item>
+      <title>Création de robe de soirée sur mesure</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-creation-robe-soiree-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/services-creation-robe-soiree-sur-mesure/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
+    </item>
+    
+    <item>
+      <title>Création de tenue de mariage civil sur mesure</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-creation-tenue-mariage-civil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/services-creation-tenue-mariage-civil/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
+    </item>
+    
+    <item>
       <title>FAQ</title>
       <link>https://hugo.atelier-couture-cristina.fr/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -120,6 +156,33 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Modifications de robe de mariée</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-modifications-robe-mariee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/services-modifications-robe-mariee/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
+    </item>
+    
+    <item>
+      <title>Retouches de robe de mariée</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-retouches-robe-mariee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/services-retouches-robe-mariee/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
+    </item>
+    
+    <item>
+      <title>Retouches et modifications de robe de soirée</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-retouches-modifications-robe-soiree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/services-retouches-modifications-robe-soiree/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
     </item>
     
     <item>
