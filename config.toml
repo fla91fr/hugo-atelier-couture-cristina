@@ -181,7 +181,7 @@ paginate = 10
 [[menu.main]]
     name       = "Services"
     identifier = "menu.services"
-    url        = "/img/banner-services.jpg"
+    url        = "/img/banner-services_800px_webp.webp"
     weight     = 9
 
 [[menu.main]]
