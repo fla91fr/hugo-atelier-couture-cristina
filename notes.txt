@@ -31,3 +31,11 @@ Webp conversion under windows
     $fileName = $image.DirectoryName + "\" + $image.BaseName + ".webp"
     cwebp.exe -q 80 $image.FullName -o $fileName
     }
+
+Tutoriaux Hugo
+    https://jamstatic.fr/2019/02/06/de-wordpress-a-hugo-un-nouvel-etat-d-esprit/
+
+Exemples de site avec Hugo
+    https://github.com/stiatragul/maba.org.au
+    https://github.com/haneulee/hugo-blog
+    
