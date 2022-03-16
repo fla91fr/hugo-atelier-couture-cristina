@@ -32,7 +32,7 @@ Un tarif estimatif pourra vous être donné par téléphone, en fonction de la d
 
 Les délais
 ===
-On estime généralement le délai de modifications d'une robe de mariée entre X mois et X mois.
+On estime généralement le délai nécessaire pour effectuer les modifications d'une robe de mariée entre X mois et X mois.
 
 Les retouches de robe de mariée
 ===
