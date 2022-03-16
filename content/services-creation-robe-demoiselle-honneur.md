@@ -15,5 +15,8 @@ Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :
 
 Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin. Ce tarif pourra être confirmé ou ajusté lors du premier rendez-vous.
 
+Les délais
+===
+On estime généralement le délai de réalisation d'une robe de mariée sur mesure entre 6 mois et 9 mois.
 
 {{<contact>}}
