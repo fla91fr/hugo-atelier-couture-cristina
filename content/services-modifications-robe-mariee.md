@@ -13,7 +13,7 @@ Voici une liste non exhaustive d'exemples de modifications ou transformations de
 - Ajout d'un laçage dans le dos d'une robe de mariée
 - Application de motifs de dentelle
 - Recouvrir le dos ou la poitrine
-- 
+- Ajout de manches
 - ...
 
 
