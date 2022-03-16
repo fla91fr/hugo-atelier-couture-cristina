@@ -14,13 +14,17 @@ Ainsi, quand on parle de retouche de robe de mariée, cela concerne la reprise d
 - Ourlet (robe trop longue)
 - adadad
 
-Les tarifs
+Les tarifs de retouches de robe de mariée
 ===
 Il faut compter en général entre 160Eur et 250Eur pour une prestation de retouches de robe de mariée.
 
 Les tarifs sont fonction du nombre d'éléments à retoucher sur la robe de mariée et de la taille de la robe. 
 
 Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de vos besoins. Ce tarif sera confirmé ou ajusté lors du premier rendez-vous.
+
+Les délais
+===
+On estime généralement le délai pour effectuer les retouches d'une robe de mariée entre X mois et X mois.
 
 Les modifications de robe de mariée
 ===
