@@ -30,6 +30,10 @@ Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :
 
 Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de vos besoins. Ce tarif sera confirmé ou ajusté lors du premier rendez-vous.
 
+Les délais
+===
+On estime généralement le délai de modifications d'une robe de mariée entre X mois et X mois.
+
 Les retouches de robe de mariée
 ===
 Si vous souhaitez effectuer des retouches de votre robe de mariée, il s'agit d'une prestation différente.
