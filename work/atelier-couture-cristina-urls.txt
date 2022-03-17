@@ -1,0 +1,12 @@
+		<loc>https://www.atelier-couture-cristina.fr/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/les-services-de-notre-atelier/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/les-services-de-notre-atelier/les-accessoires-de-la-mariee/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/les-services-de-notre-atelier/les-autres-creations/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/les-services-de-notre-atelier/les-creations-sur-mesure/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/les-services-de-notre-atelier/les-transformations-de-robes/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/realisations/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/les-services-de-notre-atelier/accessoires-de-noel/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/les-services-de-notre-atelier/cadeaux-temoins-mariage-famille/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/livre-or-guestbook/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/les-services-de-notre-atelier/pour-la-cuisine/</loc>
+		<loc>https://www.atelier-couture-cristina.fr/contactez-notre-atelier/</loc>
