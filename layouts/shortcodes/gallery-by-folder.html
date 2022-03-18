@@ -2,9 +2,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js" integrity="sha256-CtKylYan+AJuoH8jrMht1+1PMhMqrKnB8K5g012WN5I=" crossorigin="anonymous"></script>
 
-
+{{ with .Get "galleryTitle" }}
+  <h4>{{ . }}</h4>
+{{ end }}
 <div class="masonry">
-{{ $images := (.Page.Resources.ByType "image") }}
+{{ $images := (.Page.Resources.Match (printf "%s*" (.Get "folder"))) }}
 {{ with $images }}
     {{ range . }}
     {{ $resized := .Fill "300x230 q50" }}

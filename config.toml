@@ -207,6 +207,11 @@ paginate = 10
     identifier = "menu.newpage"
     url        = "/newpage"
     weight     = 9
+[[menu.main]]
+    name       = "NewPage2"
+    identifier = "menu.newpage2"
+    url        = "/newpage2"
+    weight     = 9
 
 
 

@@ -22,7 +22,9 @@ Couturieres
     http://www.couturemariage.com/
     http://nadiacouture.fr
     https://www.nanyne.com
-
+    https://www.ateliere.fr/comment-proceder-tarif-delai
+    https://www.catherinebillon.com/creatrice-tenues-haut-de-gamme-allier
+    
 Webp conversion under windows
     https://gist.githubusercontent.com/frozenex/4388145545163cf85e94d07cb18fe931/raw/7e939df884660111854db2ddb389970734ce426c/bulk-convert.ps1
     
