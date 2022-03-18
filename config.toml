@@ -18,171 +18,24 @@ paginate = 10
 
 [menu]
 
-
+# ---------------------------------------------------
+# MENU HOME
+# ---------------------------------------------------
 # Main menu
 [[menu.main]]
-    name       = "Home"
+    name       = "Accueil"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
 
-[[menu.main]]
-    name       = "Option 1: Default Page"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 3: Startup"
-    url        = "/"
-    weight     = 3
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
-
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "menu.portfolio"
-    url        = "/img/template-homepage.png"
-    weight     = 3
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.portfolio"
-    post       = 1
-
-[[menu.main]]
-    name       = "2 Columns"
-    url        = ""
-    weight     = 1
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
-    weight     = 2
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "3 Columns"
-    url        = ""
-    weight     = 3
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
-    weight     = 4
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns"
-    url        = ""
-    weight     = 5
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
-    weight     = 6
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail"
-    url        = ""
-    weight     = 7
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
-    weight     = 8
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "About Us"
-    url        = ""
-    weight     = 1
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 2
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "Packages"
-    url        = ""
-    weight     = 1
-    parent     = "section.marketing"
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
-    url        = "/blog/"
-    weight     = 5
-
-[[menu.main]]
-    name       = "Realisations"
-    identifier = "menu.realisations"
-    url        = "/realisations/"
-    weight     = 6
-
-[[menu.main]]
-    name       = "FAQ"
-    identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 7
-
-
-[[menu.main]]
-    name       = "NewPage"
-    identifier = "menu.newpage"
-    url        = "/newpage"
-    weight     = 9
-
+# ---------------------------------------------------
+# MENU SERVICES
+# ---------------------------------------------------
 [[menu.main]]
     name       = "Services"
     identifier = "menu.services"
     url        = "/img/banner-services_800px_webp.webp"
-    weight     = 9
+    weight     = 2
 
 [[menu.main]]
     name       = "Créations sur mesure"
@@ -242,6 +95,53 @@ paginate = 10
     weight     = 3
     parent     = "section.retouches.et.modifications"
 
+# ---------------------------------------------------
+# MENU REALISATIONS
+# ---------------------------------------------------
+[[menu.main]]
+    name       = "Realisations"
+    identifier = "menu.realisations"
+    url        = "/img/banner-services_800px_webp.webp"
+    weight     = 3
+
+# SECTION [Réalisations sur mesure]
+[[menu.main]]
+    name       = "Réalisations sur mesure"
+    identifier = "section.realisations.sur.mesure"
+    url        = ""
+    weight     = 1
+    parent     = "menu.realisations"
+    post       = 1
+# SECTION [Réalisations sur mesure] --> Robes de mariée sur mesure
+[[menu.main]]
+    name       = "Robes de mariée sur mesure"
+    identifier = "section.realisations.robes.de.mariee.sur.mesure"
+    url        = "/realisations-robe-mariee-sur-mesure"
+    weight     = 1
+    parent     = "section.realisations.sur.mesure"    
+# SECTION [Réalisations sur mesure] --> Robes de soirée sur mesure
+[[menu.main]]
+    name       = "Robes de soirée sur mesure"
+    identifier = "section.realisations.robes.de.soiree.sur.mesure"
+    url        = "/realisations-robe-soiree-sur-mesure"
+    weight     = 2
+    parent     = "section.realisations.sur.mesure"
+# SECTION [Réalisations sur mesure] --> Tenue de mariage civil
+[[menu.main]]
+    name       = "Tenue de mariage civil"
+    identifier = "section.realisations.tenue.mariage.civil.sur.mesure"
+    url        = "/realisations-tenue-mariage-civil-sur-mesure"
+    weight     = 3
+    parent     = "section.realisations.sur.mesure"    
+# SECTION [Réalisations sur mesure] --> Robes de demoiselle d'honneur
+[[menu.main]]
+    name       = "Robes de demoiselle d'honneur"
+    identifier = "section.realisations.robes.demoiselle.honneur.sur.mesure"
+    url        = "/realisations-robe-demoiselle-honneur-sur-mesure"
+    weight     = 4
+    parent     = "section.realisations.sur.mesure"
+    
+# ---------------------------------------------------
 
 
 # BEGIN - Section - Cadeaux de mariage
@@ -249,7 +149,7 @@ paginate = 10
     name       = "Cadeaux de mariage"
     identifier = "menu.cadeaux"
     url        = "/cadeaux-mariage"
-    weight     = 9
+    weight     = 4
 [[menu.main]]
     name       = "Cadeaux de mariage"
     identifier = "section.cadeauxmariage"
@@ -289,6 +189,30 @@ paginate = 10
     parent     = "section.cadeauxmariage"
 
 # END - Section - Cadeaux de mariage
+
+
+# ---------------------------------------------------
+# MENU BLOG
+# ---------------------------------------------------
+[[menu.main]]
+    name       = "Blog"
+    identifier = "menu.blog"
+    url        = "/blog/"
+    weight     = 5
+
+
+
+[[menu.main]]
+    name       = "NewPage"
+    identifier = "menu.newpage"
+    url        = "/newpage"
+    weight     = 9
+
+
+
+
+
+
 
 [[menu.main]]
     name       = "Guestbook"

@@ -13,6 +13,8 @@ Galleries
     https://brunoamaral.eu/post/creating-a-gallery-component-for-the-hugo-static-site-generator/
     https://christianspecht.de/2020/08/10/creating-an-image-gallery-with-hugo-and-lightbox2/
     https://discourse.gohugo.io/t/image-exif-orientation/22902/11
+    https://github.com/liwenyip/hugo-easy-gallery/
+    
 
 Couturieres
     https://www.nanyne.com
