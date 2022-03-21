@@ -106,7 +106,7 @@ paginate = 10
 
 # SECTION [Réalisations sur mesure]
 [[menu.main]]
-    name       = "Réalisations sur mesure"
+    name       = "Exemples de Réalisations sur mesure"
     identifier = "section.realisations.sur.mesure"
     url        = ""
     weight     = 1
@@ -114,30 +114,30 @@ paginate = 10
     post       = 1
 # SECTION [Réalisations sur mesure] --> Robes de mariée sur mesure
 [[menu.main]]
-    name       = "Robes de mariée sur mesure"
+    name       = "Exemples de Robes de mariée sur mesure"
     identifier = "section.realisations.robes.de.mariee.sur.mesure"
-    url        = "/realisations-robe-mariee-sur-mesure"
+    url        = "/exemples-realisations-robe-mariee-sur-mesure"
     weight     = 1
     parent     = "section.realisations.sur.mesure"    
 # SECTION [Réalisations sur mesure] --> Robes de soirée sur mesure
 [[menu.main]]
-    name       = "Robes de soirée sur mesure"
+    name       = "Exemples de Robes de soirée sur mesure"
     identifier = "section.realisations.robes.de.soiree.sur.mesure"
-    url        = "/realisations-robe-soiree-sur-mesure"
+    url        = "/exemples-realisations-robe-soiree-sur-mesure"
     weight     = 2
     parent     = "section.realisations.sur.mesure"
 # SECTION [Réalisations sur mesure] --> Tenue de mariage civil
 [[menu.main]]
-    name       = "Tenue de mariage civil"
+    name       = "Exemples de Tenue de mariage civil"
     identifier = "section.realisations.tenue.mariage.civil.sur.mesure"
-    url        = "/realisations-tenue-mariage-civil-sur-mesure"
+    url        = "/exemples-realisations-tenue-mariage-civil-sur-mesure"
     weight     = 3
     parent     = "section.realisations.sur.mesure"    
 # SECTION [Réalisations sur mesure] --> Robes de demoiselle d'honneur
 [[menu.main]]
-    name       = "Robes de demoiselle d'honneur"
+    name       = "Exemples de Robes de demoiselle d'honneur"
     identifier = "section.realisations.robes.demoiselle.honneur.sur.mesure"
-    url        = "/realisations-robe-demoiselle-honneur-sur-mesure"
+    url        = "/exemples-realisations-robe-demoiselle-honneur-sur-mesure"
     weight     = 4
     parent     = "section.realisations.sur.mesure"
     

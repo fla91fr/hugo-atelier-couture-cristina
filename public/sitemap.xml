@@ -59,10 +59,10 @@
     <loc>https://hugo.atelier-couture-cristina.fr/blog/2015/08/03/testarticle/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://hugo.atelier-couture-cristina.fr/newpage/</loc>
+    <loc>https://hugo.atelier-couture-cristina.fr/newpage2/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://hugo.atelier-couture-cristina.fr/newpage2/</loc>
+    <loc>https://hugo.atelier-couture-cristina.fr/newpage/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://hugo.atelier-couture-cristina.fr/contactez-notre-atelier/</loc>
@@ -94,8 +94,6 @@
   </url><url>
     <loc>https://hugo.atelier-couture-cristina.fr/services-creation-tenue-mariage-civil/</loc>
   </url><url>
-    <loc>https://hugo.atelier-couture-cristina.fr/faq/</loc>
-  </url><url>
     <loc>https://hugo.atelier-couture-cristina.fr/tags/ipsum/</loc>
   </url><url>
     <loc>https://hugo.atelier-couture-cristina.fr/blog/1/01/01/migrate-from-jekyll/</loc>
@@ -107,5 +105,13 @@
     <loc>https://hugo.atelier-couture-cristina.fr/services-retouches-modifications-robe-soiree/</loc>
   </url><url>
     <loc>https://hugo.atelier-couture-cristina.fr/realisations/</loc>
+  </url><url>
+    <loc>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-demoiselle-honneur-sur-mesure/</loc>
+  </url><url>
+    <loc>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-mariee-sur-mesure/</loc>
+  </url><url>
+    <loc>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-soiree-sur-mesure/</loc>
+  </url><url>
+    <loc>https://hugo.atelier-couture-cristina.fr/exemples-realisations-tenue-mariage-civil-sur-mesure/</loc>
   </url>
 </urlset>

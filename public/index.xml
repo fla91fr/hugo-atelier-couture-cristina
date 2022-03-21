@@ -14,7 +14,7 @@
       
       <guid>https://hugo.atelier-couture-cristina.fr/blog/2021/08/01/categories-post/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
       
       <guid>https://hugo.atelier-couture-cristina.fr/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
@@ -48,19 +48,19 @@ This document is a brief primer on using go templates.</description>
     
     <item>
       <title>ARTICLE TEST</title>
-      <link>https://hugo.atelier-couture-cristina.fr/newpage/</link>
+      <link>https://hugo.atelier-couture-cristina.fr/newpage2/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://hugo.atelier-couture-cristina.fr/newpage/</guid>
+      <guid>https://hugo.atelier-couture-cristina.fr/newpage2/</guid>
       <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://hugo.atelier-couture-cristina.fr/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     
     <item>
       <title>ARTICLE TEST</title>
-      <link>https://hugo.atelier-couture-cristina.fr/newpage2/</link>
+      <link>https://hugo.atelier-couture-cristina.fr/newpage/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://hugo.atelier-couture-cristina.fr/newpage2/</guid>
+      <guid>https://hugo.atelier-couture-cristina.fr/newpage/</guid>
       <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://hugo.atelier-couture-cristina.fr/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     
@@ -144,24 +144,14 @@ Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :  &amp;h
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>https://hugo.atelier-couture-cristina.fr/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo.atelier-couture-cristina.fr/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    
-    <item>
       <title>Migrate from Jekyll</title>
       <link>https://hugo.atelier-couture-cristina.fr/blog/1/01/01/migrate-from-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/blog/1/01/01/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
+▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
@@ -203,6 +193,42 @@ Les éléments concernés par la retouche de robe de mariée Ainsi, quand on par
       <description>Introduction sur les réalisations
 Les créations de robes de mariée sur mesure Les transformations de robes Autres créations sur mesure Les accessoires de la mariée   In case you haven&amp;rsquo;t found the answer for your question please feel free to contact us, our customer support will be happy to help you.
  </description>
+    </item>
+    
+    <item>
+      <title>Réalisations de robe de demoiselle d&#39;honneur sur mesure</title>
+      <link>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-demoiselle-honneur-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-demoiselle-honneur-sur-mesure/</guid>
+      <description>Exemples de Réalisations de robe de demoiselle d&amp;#39;honneur sur mesure Vous souhaitez en savoir plus ?Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nousContactez nous</description>
+    </item>
+    
+    <item>
+      <title>Réalisations de robe de mariée sur mesure</title>
+      <link>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-mariee-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-mariee-sur-mesure/</guid>
+      <description>Exemples de Réalisations de robe de mariée sur mesure Robe de mariée sur mesure Robe de mariée sur mesure 2 Robe de mariée sur mesure 3 Vous souhaitez en savoir plus ?Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nousContactez nous</description>
+    </item>
+    
+    <item>
+      <title>Réalisations de robe de soirée sur mesure</title>
+      <link>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-soiree-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-soiree-sur-mesure/</guid>
+      <description>Exemples de Réalisations de robe de soirée sur mesure Vous souhaitez en savoir plus ?Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nousContactez nous</description>
+    </item>
+    
+    <item>
+      <title>Réalisations de tenue de mariage civil sur mesure</title>
+      <link>https://hugo.atelier-couture-cristina.fr/exemples-realisations-tenue-mariage-civil-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.atelier-couture-cristina.fr/exemples-realisations-tenue-mariage-civil-sur-mesure/</guid>
+      <description>Exemples de Réalisations de tenue de mariage civil sur mesure Vous souhaitez en savoir plus ?Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nousContactez nous</description>
     </item>
     
   </channel>
