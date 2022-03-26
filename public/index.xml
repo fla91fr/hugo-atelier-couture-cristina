@@ -14,7 +14,7 @@
       
       <guid>https://hugo.atelier-couture-cristina.fr/blog/2021/08/01/categories-post/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
       
       <guid>https://hugo.atelier-couture-cristina.fr/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
@@ -48,19 +48,19 @@ This document is a brief primer on using go templates.</description>
     
     <item>
       <title>ARTICLE TEST</title>
-      <link>https://hugo.atelier-couture-cristina.fr/newpage2/</link>
+      <link>https://hugo.atelier-couture-cristina.fr/newpage/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://hugo.atelier-couture-cristina.fr/newpage2/</guid>
+      <guid>https://hugo.atelier-couture-cristina.fr/newpage/</guid>
       <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://hugo.atelier-couture-cristina.fr/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     
     <item>
       <title>ARTICLE TEST</title>
-      <link>https://hugo.atelier-couture-cristina.fr/newpage/</link>
+      <link>https://hugo.atelier-couture-cristina.fr/newpage2/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://hugo.atelier-couture-cristina.fr/newpage/</guid>
+      <guid>https://hugo.atelier-couture-cristina.fr/newpage2/</guid>
       <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://hugo.atelier-couture-cristina.fr/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     
@@ -107,8 +107,11 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/services-creation-robe-demoiselle-honneur/</guid>
-      <description>Les tarifs d&amp;rsquo;une robe de demoiselle d&amp;rsquo;honneur sur mesure Il faut compter en général entre XXXEur et XXXEur pour la réalisation d&amp;rsquo;une robe de demoiselle d&amp;rsquo;honneur sur mesure.
-Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :  &amp;hellip;  Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin. Ce tarif pourra être confirmé ou ajusté lors du premier rendez-vous.</description>
+      <description>Les tarifs d&amp;rsquo;une robe de demoiselle d&amp;rsquo;honneur sur mesure Il faut compter à partir de 450Eur pour la réalisation d&amp;rsquo;une robe de demoiselle d&amp;rsquo;honneur sur mesure.
+Dans le cas d&amp;rsquo;une robe de demoiselle d&amp;rsquo;honneur courte, le prix débute à 450Eur.
+Dans le cas d&amp;rsquo;une robe de demoiselle d&amp;rsquo;honneur longue, le prix débute à 700Eur.
+Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :
+ le modèle le choix des matières  Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin.</description>
     </item>
     
     <item>
@@ -117,9 +120,10 @@ Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :  &amp;h
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/services-creation-robe-mariee-sur-mesure/</guid>
-      <description>Les tarifs d&amp;rsquo;une robe de mariée sur mesure Il faut compter en général entre XXXEur et XXXEur pour la réalisation d&amp;rsquo;une robe de mariée sur mesure.
-Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :  &amp;hellip;  Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin. Ce tarif pourra être confirmé ou ajusté lors du premier rendez-vous.
-Les délais On estime généralement le délai de réalisation d&amp;rsquo;une robe de mariée sur mesure entre 6 mois et 9 mois.</description>
+      <description>Les tarifs d&amp;rsquo;une robe de mariée sur mesure Il faut compter en général à partir de 1500Eur pour la réalisation d&amp;rsquo;une robe de mariée sur mesure.
+Dans le cas d&amp;rsquo;une robe de mariée plus simple, pour le mariage civil par exemple, consultez la rubrique : &amp;ldquo;Création de tenue de mariage civil&amp;rdquo;
+Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :
+ le modèle le choix des matières &amp;hellip;  Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin.</description>
     </item>
     
     <item>
@@ -128,9 +132,11 @@ Les délais On estime généralement le délai de réalisation d&amp;rsquo;une r
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/services-creation-robe-soiree-sur-mesure/</guid>
-      <description>Les tarifs d&amp;rsquo;une robe de soirée sur mesure Il faut compter en général entre XXXEur et XXXEur pour la réalisation d&amp;rsquo;une robe de soirée sur mesure.
-Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :  &amp;hellip;  Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin. Ce tarif pourra être confirmé ou ajusté lors du premier rendez-vous.
-Les délais On estime généralement le délai de réalisation d&amp;rsquo;une robe de soirée sur mesure entre 3 mois et 6 mois.</description>
+      <description>Les tarifs d&amp;rsquo;une robe de soirée sur mesure Il faut compter à partir de 450Eur pour la réalisation d&amp;rsquo;une robe de soirée sur mesure.
+Dans le cas d&amp;rsquo;une robe courte, le prix débute à 450Eur.
+Dans le cas d&amp;rsquo;une robe longue, le prix débute à 700Eur.
+Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :
+ le modèle le choix des matières &amp;hellip;  Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin.</description>
     </item>
     
     <item>
@@ -139,8 +145,9 @@ Les délais On estime généralement le délai de réalisation d&amp;rsquo;une r
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/services-creation-tenue-mariage-civil/</guid>
-      <description>Les tarifs d&amp;rsquo;une tenue de mariage civil sur mesure Il faut compter en général entre XXXEur et XXXEur pour la réalisation d&amp;rsquo;une tenue de mariage civil sur mesure.
-Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :  &amp;hellip;  Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin. Ce tarif pourra être confirmé ou ajusté lors du premier rendez-vous.</description>
+      <description>Les tarifs d&amp;rsquo;une tenue de mariage civil sur mesure Il faut compter à partir de 450Eur pour la réalisation d&amp;rsquo;une tenue de mariage civil sur mesure.
+Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :
+ le modèle le choix des matières &amp;hellip;  Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin. Ce tarif pourra être confirmé ou ajusté lors du premier rendez-vous.</description>
     </item>
     
     <item>
@@ -150,19 +157,18 @@ Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :  &amp;h
       
       <guid>https://hugo.atelier-couture-cristina.fr/blog/1/01/01/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
-      <title>Modifications de robe de mariée</title>
-      <link>https://hugo.atelier-couture-cristina.fr/services-modifications-robe-mariee/</link>
+      <title>Modifications de robe de mariée, robe de soirée, tenue de mariage civil</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-modifications-robe-mariee-robe-soiree-mariage-civil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.atelier-couture-cristina.fr/services-modifications-robe-mariee/</guid>
-      <description>La prestation de modification de robe de mariée ou de transformation de robe de mariée concerne des adaptations souhaitées par la future mariée pour répondre à des souhaits esthétiques personnels ou pour des motifs religieux.
-Les éléments concernés par la modification ou transformation de robe de mariée Voici une liste non exhaustive d&amp;rsquo;exemples de modifications ou transformations de robe de mariée :
- Ajout d&amp;rsquo;un laçage dans le dos d&amp;rsquo;une robe de mariée Application de motifs de dentelle Recouvrir le dos ou la poitrine Ajout de manches &amp;hellip;  Les tarifs de modifications de robe de mariée Il faut compter en général entre XXXEur et XXXEur pour une prestation de modification ou transformation de robe de mariée.</description>
+      <guid>https://hugo.atelier-couture-cristina.fr/services-modifications-robe-mariee-robe-soiree-mariage-civil/</guid>
+      <description>La prestation de modification de robe de mariée, robe de soirée, ou tenue de mariage civil (également appelées &amp;ldquo;transformations&amp;rdquo;) , concerne des adaptations souhaitées par la future mariée ou toute autre personne pour répondre à des souhaits esthétiques personnels ou pour des motifs religieux.
+Les éléments concernés par la modification de robe de mariée, robe de soirée, tenue de mariage civil Voici une liste non exhaustive d&amp;rsquo;exemples de modifications de robe de mariée, robe de soirée, tenue de mariage civil :</description>
     </item>
     
     <item>
@@ -176,12 +182,13 @@ Les éléments concernés par la retouche de robe de mariée Ainsi, quand on par
     </item>
     
     <item>
-      <title>Retouches et modifications de robe de soirée</title>
-      <link>https://hugo.atelier-couture-cristina.fr/services-retouches-modifications-robe-soiree/</link>
+      <title>Retouches de robe de soirée et tenues de mariage civil</title>
+      <link>https://hugo.atelier-couture-cristina.fr/services-retouches-robe-soiree-tenue-mariage-civil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo.atelier-couture-cristina.fr/services-retouches-modifications-robe-soiree/</guid>
-      <description>La prestation de retouches et de modifications de robe de soirée (ou de transformation de robe de soirée) concerne à la fois les ajustements basiques nécessaires pour que la robe de soirée s&amp;rsquo;adapte parfaitement à la silhouette de la personne qui la portera, lui permettant ainsi d&amp;rsquo;évoluer tout au long de la journée avec grâce et volupté, ainsi que des adaptations souhaitées répondre à des souhaits esthétiques personnels ou pour des motifs religieux.</description>
+      <guid>https://hugo.atelier-couture-cristina.fr/services-retouches-robe-soiree-tenue-mariage-civil/</guid>
+      <description>La prestation de retouches de robe de soirée ou de tenue de mariage civil concerne les ajustements basiques nécessaires pour que la robe s&amp;rsquo;adapte parfaitement à la silhouette de la personne qui la portera, lui permettant ainsi d&amp;rsquo;évoluer tout au long de la journée avec grâce et volupté.
+Les éléments concernés par la retouche de robe de soirée ou tenue de mariage civil Ainsi, quand on parle de retouches de robe de soirée ou tenue de mariage civil, cela concerne la reprise des éléments suivants :</description>
     </item>
     
     <item>
@@ -201,7 +208,7 @@ Les créations de robes de mariée sur mesure Les transformations de robes Autre
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-demoiselle-honneur-sur-mesure/</guid>
-      <description>Exemples de Réalisations de robe de demoiselle d&amp;#39;honneur sur mesure Vous souhaitez en savoir plus ?Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nousContactez nous</description>
+      <description>Exemples de Réalisations de robe de demoiselle d&amp;#39;honneur sur mesure  Vous souhaitez en savoir plus ? Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nous Contactez nous        </description>
     </item>
     
     <item>
@@ -210,7 +217,7 @@ Les créations de robes de mariée sur mesure Les transformations de robes Autre
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-mariee-sur-mesure/</guid>
-      <description>Exemples de Réalisations de robe de mariée sur mesure Robe de mariée sur mesure Robe de mariée sur mesure 2 Robe de mariée sur mesure 3 Vous souhaitez en savoir plus ?Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nousContactez nous</description>
+      <description>Exemples de Réalisations de robe de mariée sur mesure   Robe de mariée sur mesure        Robe de mariée sur mesure 2        Robe de mariée sur mesure 3       Vous souhaitez en savoir plus ? Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nous Contactez nous        </description>
     </item>
     
     <item>
@@ -219,7 +226,7 @@ Les créations de robes de mariée sur mesure Les transformations de robes Autre
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/exemples-realisations-robe-soiree-sur-mesure/</guid>
-      <description>Exemples de Réalisations de robe de soirée sur mesure Vous souhaitez en savoir plus ?Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nousContactez nous</description>
+      <description>Exemples de Réalisations de robe de soirée sur mesure  Vous souhaitez en savoir plus ? Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nous Contactez nous        </description>
     </item>
     
     <item>
@@ -228,7 +235,7 @@ Les créations de robes de mariée sur mesure Les transformations de robes Autre
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hugo.atelier-couture-cristina.fr/exemples-realisations-tenue-mariage-civil-sur-mesure/</guid>
-      <description>Exemples de Réalisations de tenue de mariage civil sur mesure Vous souhaitez en savoir plus ?Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nousContactez nous</description>
+      <description>Exemples de Réalisations de tenue de mariage civil sur mesure  Vous souhaitez en savoir plus ? Pour plus d&#39;informations concernant ce sujet ou bien pour nous parler de votre projet, contactez-nous Contactez nous        </description>
     </item>
     
   </channel>

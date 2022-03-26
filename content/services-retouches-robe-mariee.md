@@ -10,13 +10,15 @@ Les éléments concernés par la retouche de robe de mariée
 ===
 
 Ainsi, quand on parle de retouche de robe de mariée, cela concerne la reprise des éléments suivants : 
-- longueurs
-- Ourlet (robe trop longue)
-- adadad
+- les longueurs
+- les côtés
+- les épaules
+- ourlets (robe trop longue)
+- les manches
 
 Les tarifs de retouches de robe de mariée
 ===
-Il faut compter en général entre 160Eur et 250Eur pour une prestation de retouches de robe de mariée.
+Il faut compter en général entre 160Eur et 280Eur pour une prestation de retouches de robe de mariée.
 
 Les tarifs sont fonction du nombre d'éléments à retoucher sur la robe de mariée et de la taille de la robe. 
 
@@ -24,7 +26,11 @@ Un tarif estimatif pourra vous être donné par téléphone, en fonction de la d
 
 Les délais
 ===
-On estime généralement le délai pour effectuer les retouches d'une robe de mariée entre X mois et X mois.
+Idéalement, il faut s'y prendre le plus tôt possible.
+
+Néanmoins, il est souvent possible de gérer des demandes urgentes.
+
+N'hésitez donc pas à nous contacter pour savoir s'il est possible d'intercaler votre demande dans notre planning.
 
 Les modifications de robe de mariée
 ===
@@ -32,6 +38,6 @@ Si vous souhaitez effectuer des modifications ou transformations très spécifiq
 
 Il s'agit d'une prestation différente, qui peut venir en complément des retouches ou en remplacement des retouches si celles-ci n'étaient pas nécessaires.
 
-Dans ce cas, consultez la rubrique : ["Modifications de robe de mariée"]({{< ref "/services-modifications-robe-mariee" >}} "Modifications de robe de mariée")
+Dans ce cas, consultez la rubrique : ["Modifications de robe de mariée"]({{< ref "/services-modifications-robe-mariee-robe-soiree-mariage-civil" >}} "Modifications de robe de mariée")
 
 {{<contact>}}

@@ -83,15 +83,15 @@ paginate = 10
     weight     = 1
     parent     = "section.retouches.et.modifications"
 [[menu.main]]
-    name       = "Modifications de robe de mariée"
+    name       = "Modifications de robe de mariée/robe soirée/mariage civil"
     identifier = "section.modifications.de.robe.de.mariee"
-    url        = "/services-modifications-robe-mariee"
+    url        = "/services-modifications-robe-mariee-robe-soiree-mariage-civil"
     weight     = 2
     parent     = "section.retouches.et.modifications"
 [[menu.main]]
-    name       = "Retouches & modifications de robe de soirée"
+    name       = "Retouches de robe de soirée/tenue de mariage civil"
     identifier = "section.retouches.de.robe.de.soirée"
-    url        = "/services-retouches-modifications-robe-soiree"
+    url        = "/services-retouches-robe-soiree-tenue-mariage-civil"
     weight     = 3
     parent     = "section.retouches.et.modifications"
 

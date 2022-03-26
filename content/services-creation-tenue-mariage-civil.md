@@ -6,17 +6,19 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 Les tarifs d'une tenue de mariage civil sur mesure
 ===
-Il faut compter en général entre XXXEur et XXXEur pour la réalisation d'une tenue de mariage civil sur mesure.
+Il faut compter à partir de 450Eur pour la réalisation d'une tenue de mariage civil sur mesure.
 
 Les tarifs sont fonction de nombreux éléments, sans être exhaustifs :
-- 
+- le modèle
+- le choix des matières
 - ...
 
 Un tarif estimatif pourra vous être donné par téléphone, en fonction de la description de votre besoin. Ce tarif pourra être confirmé ou ajusté lors du premier rendez-vous.
 
 Les délais
 ===
-On estime généralement le délai de réalisation d'une tenue de mariage civil sur mesure entre 1 mois et 2 mois.
+Pour commander une tenue de mariage civil sur mesure, il faut idéalement s'y prendre au moins 3 mois à l'avance afin de garder de la marge.
 
+En cas de besoin plus urgent, n'hésitez pas à nous contacter pour savoir s'il est possible d'intercaler votre demande dans notre planning.
 
 {{<contact>}}
