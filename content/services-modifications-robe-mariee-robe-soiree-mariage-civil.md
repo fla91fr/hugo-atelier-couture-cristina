@@ -4,7 +4,7 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-La prestation de modification de robe de mariée, robe de soirée, ou tenue de mariage civil (également appelées "transformations") , concerne des adaptations souhaitées par la future mariée ou toute autre personne pour répondre à des souhaits esthétiques personnels ou pour des motifs religieux.
+La prestation de modification de robe de mariée, robe de soirée, ou tenue de mariage civil (également appelées "transformations"), concerne des adaptations souhaitées par la future mariée ou toute autre personne pour répondre à des souhaits esthétiques personnels ou pour des motifs religieux.
 
 Les éléments concernés par la modification de robe de mariée, robe de soirée, tenue de mariage civil
 ===
@@ -44,7 +44,7 @@ N'hésitez donc pas à nous contacter pour savoir s'il est possible d'intercaler
 
 Les retouches de robe de mariée
 ===
-Si vous souhaitez effectuer des retouches de votre robe de mariée, il s'agit d'une prestation différente, qui peut venir complément de modifications de la robe ou en remplacement.
+Si vous souhaitez effectuer des retouches de votre robe de mariée, il s'agit d'une prestation différente, qui peut venir en complément de modifications de la robe ou en remplacement.
 
 Pour obtenir plus d'informations, consultez la rubrique : ["Retouches de robe de mariée"]({{< ref "/services-retouches-robe-mariee" >}} "Retouches de robe de mariée")
 

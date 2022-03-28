@@ -59,13 +59,13 @@ paginate = 10
 [[menu.main]]
     name       = "Tenue de mariage civil"
     identifier = "section.tenue.de.mariage.civil"
-    url        = "/services-creation-tenue-mariage-civil"
+    url        = "/services-creation-tenue-mariage-civil-sur-mesure"
     weight     = 3
     parent     = "section.creations.sur.mesure"
 [[menu.main]]
     name       = "Robe de demoiselle d'honneur"
     identifier = "section.robe.demoiselle.honneur"
-    url        = "/services-creation-robe-demoiselle-honneur"
+    url        = "/services-creation-robe-demoiselle-honneur-sur-mesure"
     weight     = 4
     parent     = "section.creations.sur.mesure"
 
@@ -222,7 +222,7 @@ paginate = 10
 [[menu.main]]
     name       = "Guestbook"
     identifier = "menu.guestbook"
-    url        = "/livre-or-guestbook"
+    url        = "/livre-or-guestbook-avis-reviews"
     weight     = 10
 
 [[menu.main]]
@@ -368,7 +368,7 @@ paginate = 10
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
-    enable = true
+    enable = false
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
